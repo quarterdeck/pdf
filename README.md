@@ -1,5 +1,3 @@
-# <img src="assets/logo.png" width="400" alt="Puppetron">
-
 > [Puppeteer](https://github.com/GoogleChrome/puppeteer) (Headless Chrome Node API)-based rendering solution.
 
 Videos & Tweets:
